@@ -1,0 +1,54 @@
+form {
+  padding-top: 25px;
+}
+h1 {
+  color: blue;
+  font-weight: 400;
+}
+h2 {
+  font-size: 15px;
+  color: gray;
+}
+.temp {
+  font-size: 35px;
+  color: blue;
+}
+span {
+  color: grey;
+  font-size: 15px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.weatherData {
+  color: lightseagreen;
+}
+.qoute {
+  font-size: small;
+  margin-left: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.grade {
+  color: blue;
+}
+.btn-outline-secondary {
+  font-size: 10px;
+  padding: 2px 8px;
+  border: none;
+}
+#app {
+  width: 75%;
+  display: block;
+  margin: 25px auto;
+  background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+#current-location{
+  color: #fff;
+  background-color: #e0c3fc;
+ border: none;
+ position: relative;
+ top: -8px;
+ padding:8px 12px;
+}
+
